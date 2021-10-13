@@ -8,7 +8,7 @@
 </head>
 <body>
 
-처음 작성하는 JSP 문서
+처음 작성하는 JSP 문서 (수정)
 
 </body>
 </html>
