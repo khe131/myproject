@@ -9,7 +9,6 @@
 <body>
 
 test.jsp 파일 입니다.
-test.jsp 파일 입니다.
 
 </body>
 </html>
