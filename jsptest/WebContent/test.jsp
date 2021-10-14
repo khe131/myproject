@@ -8,7 +8,7 @@
 </head>
 <body>
 
-test.jsp 파일 입니다.
+test.jsp 파일 입니다. (수정)
 
 </body>
 </html>
